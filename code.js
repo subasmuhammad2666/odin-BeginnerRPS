@@ -46,4 +46,5 @@ function singleRound(playerChoice,computerChoice){
         return result;
     }
 }
+console.log(game())
 
